@@ -1,16 +1,14 @@
-### Hi there 👋
+# Laurence Mingle
+![GitHub followers](https://img.shields.io/github/followers/lmingle?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/lmingle?style=social)   ![@aabs](https://img.shields.io/twitter/follow/laurencemingle?style=social)
 
-<!--
-**lmingle/lmingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my spare time I explore:
 
-Here are some ideas to get you started:
+- Kubernetes homelabs
+- DIY CNC machines
+- Electronics
+- Application architecture
+- Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I really like
+- [UnitsNET](https://github.com/angularsen/UnitsNet) - When performing calculations this library helps you keep your units correct. As a bonus, I used this in an application to allow users to enter quantities in any unit and it automatically converted it to the current culture without any additional effort on my part.
+- [k0s](https://github.com/k0sproject/k0s) - A small single binary to create and build a Kubernetes cluster.
